@@ -11,8 +11,10 @@ This project provides a RESTful API for user authentication and management, util
 - [Contributing](#contributing)
 - [License](#license)
 
-Documentation -  https://documenter.getpostman.com/view/22824646/2s9Xy2QsPE 
-Deployed Endpoint - https://twofa-with-authenticator.onrender.com/api/healthchecker
+## Documentation   
+- https://documenter.getpostman.com/view/22824646/2s9Xy2QsPE 
+## Deployed Endpoint 
+- https://twofa-with-authenticator.onrender.com/api/healthchecker
 
 ## Endpoints
 
