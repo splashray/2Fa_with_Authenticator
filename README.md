@@ -12,6 +12,8 @@ This project provides a RESTful API for user authentication and management, util
 - [License](#license)
 
 Documentation -  https://documenter.getpostman.com/view/22824646/2s9Xy2QsPE 
+Deployed Endpoint - https://twofa-with-authenticator.onrender.com/api/healthchecker
+
 ## Endpoints
 
 1. **POST /register**: Register a new user by providing the user's name, email, and password. If successful, the user is added to the database.
