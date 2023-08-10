@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Generate OTP</title>
+</head>
+<body>
+  <div id="qr-container">
+    <img id="qr-code" src="<%= dataURL %>" alt="QR Code">
+  </div>
+  <p>Base32 Secret: <span><%= base32_secret %></span></p>
+  <p>OTP Auth URL: <span><%= otpauth_url %></span></p>
+</body>
+</html>
